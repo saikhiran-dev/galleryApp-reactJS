@@ -1,0 +1,19 @@
+.thumbnail-item {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.thumbnail-button {
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px;
+  outline: none;
+  border: 0px;
+}
+.thumbnail-image {
+  width: 52px;
+  height: 48px;
+  opacity: 0.4;
+}
+.active {
+  opacity: 1;
+}
